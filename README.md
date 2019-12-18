@@ -26,7 +26,7 @@ Take a look at [realtime demo](https://dag.jfx.cz) and [education sources](https
 
 ## Development
 
-See [how to contribute](https://contributte.org/contribute.html) to this package.
+See [how to contribute](https://contributte.org/contributing.html) to this package.
 
 This package is currently maintaining by these authors.
 
