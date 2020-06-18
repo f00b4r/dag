@@ -1,5 +1,5 @@
 {
-  "name": "ninjify/dag",
+  "name": "lab/dag",
   "description": ":running: Dag is opinionated expression data generator written in PHP to fake your API.",
   "keywords": [
     "php",
@@ -10,7 +10,7 @@
   ],
   "type": "library",
   "license": "MIT",
-  "homepage": "https://github.com/ninjify/dag",
+  "homepage": "https://github.com/pwnlabs/dag",
   "authors": [
     {
       "name": "Milan Felix Šulc",
