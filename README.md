@@ -22,7 +22,7 @@ composer require ninjify/dag
 
 For details on how to use this package, check out our [documentation](.docs).
 
-Take a look at [realtime demo](https://dag.jfx.cz) and [education sources](https://github.com/trainit/2019-11-vue-ts-php-zeit).
+Take a look at [realtime demo](https://daggy.vercel.app) and [education sources](https://github.com/trainit/2019-11-vue-ts-php-zeit).
 
 ## Development
 
